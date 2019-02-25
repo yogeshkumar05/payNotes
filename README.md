@@ -1,14 +1,13 @@
 # payNotes
 a web application where Users can jot down their notes
 
-## steps to run the application
+# steps to run the application
 1. colone the repository
 2. navigate to the project location
-
-Start the Server
-3. navigate to /server directory
-4. execute 'npm install'
-5. execute 'npm start'
+3.Start the Server
+  3.1 navigate to /server directory
+  3.2 execute 'npm install'
+  3.3 execute 'npm start'
 
 Start the Client
 6. navigate to project home folder
