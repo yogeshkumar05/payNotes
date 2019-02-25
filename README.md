@@ -2,18 +2,17 @@
 a web application where Users can jot down their notes
 
 # steps to run the application
-1. colone the repository
-2. navigate to the project location
-3.Start the Server
+- colone the repository
+- navigate to the project location
+- Start the Server
   - navigate to /server directory
   - execute 'npm install'
   - execute 'npm start'
-
-Start the Client
-6. navigate to project home folder
-7. execute 'npm install'
-8. execute 'npm start'
-9. http://localhost:1234/
+- Start the Client
+  - navigate to project home folder
+  - execute 'npm install'
+  - execute 'npm start'
+  - launch http://localhost:1234/ on browser
 
 Login to the Application
 10. Login screen will display. Login using valid credentials
