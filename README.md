@@ -5,9 +5,11 @@ a web application where Users can jot down their notes
 - clone the repository
 - navigate to the project location
 - Start the Server
+  - install & start mongodb
   - navigate to /server directory
   - execute 'npm install'
   - execute 'npm start'
+  - server will start at http://localhost:3000/
 - Start the Client
   - navigate to project home folder
   - execute 'npm install'
@@ -32,3 +34,5 @@ a web application where Users can jot down their notes
   - Click on Save Button at the bottom of page to update the note
   - A message will be displayed above the save button, indicating that the note is updated
 
+# The client demo is deployed at https://paynotes-yogesh.herokuapp.com/ 
+  Launch server at localhost http://localhost:3000/ to test the app
