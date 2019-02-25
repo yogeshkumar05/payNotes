@@ -1,7 +1,7 @@
 # payNotes
 a web application where Users can jot down their notes
 
-# steps to run the application
+## steps to run the application
 1. colone the repository
 2. navigate to the project location
 
