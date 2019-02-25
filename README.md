@@ -34,5 +34,6 @@ a web application where Users can jot down their notes
   - Click on Save Button at the bottom of page to update the note
   - A message will be displayed above the save button, indicating that the note is updated
 
-# The client demo is deployed at https://paynotes-yogesh.herokuapp.com/ 
-  Launch server at localhost http://localhost:3000/ to test the app
+# The client demo is deployed at 
+- https://paynotes-yogesh.herokuapp.com/ 
+  - Launch server at localhost http://localhost:3000/ to test the app
