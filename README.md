@@ -5,9 +5,9 @@ a web application where Users can jot down their notes
 1. colone the repository
 2. navigate to the project location
 3.Start the Server
-  3.1 navigate to /server directory
-  3.2 execute 'npm install'
-  3.3 execute 'npm start'
+  - navigate to /server directory
+  - execute 'npm install'
+  - execute 'npm start'
 
 Start the Client
 6. navigate to project home folder
