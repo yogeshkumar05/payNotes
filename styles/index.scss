@@ -1,0 +1,17 @@
+@import './Header.scss';
+@import './Login.scss';
+@import './View.scss';
+@import './common.scss';
+@import './Update.scss';
+@import './PButton.scss';
+
+body {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}

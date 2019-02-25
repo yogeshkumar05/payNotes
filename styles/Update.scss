@@ -1,0 +1,38 @@
+@import './variables.scss';
+
+.modify-container {
+    .note-container {
+        .note-editor {
+            width: 100vw;
+            box-sizing: border-box;
+            height: calc(100vh - 160px);
+            border: none;
+            padding: 0 20px;
+            margin-top: 10px;
+        }
+
+        .note-editor:focus {
+            outline: none;
+        }
+
+        .note-title {
+            font-size: 20px;
+            border: none;
+            width: 100%;
+            font-weight: bold;
+            text-align: center;
+            /* margin-bottom: 5px; */
+            border-bottom: 1px solid $light-grey;
+            margin-bottom: 10p;
+            padding-bottom: 5px;
+        }
+        .note-title:focus{
+            outline: none;
+        }
+    }  
+}
+.info-msg {
+    color: $theme-color;
+    text-align: center;
+    margin: 10px;
+}

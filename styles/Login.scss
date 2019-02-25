@@ -1,0 +1,46 @@
+@import './variables.scss';
+
+.login-container{
+    margin: 30vh auto;
+    max-width: 300px;
+    
+    .login-info {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .input-container {
+        display: flex;
+        width: 100%;
+        margin-bottom: 15px;
+        .icon {
+            padding: 10px;
+            background: $theme-color;
+            color: white;
+            min-width: 50px;
+            text-align: center;
+        }
+        
+        .input-field {
+            width: 100%;
+            padding: 10px;
+            outline: none;
+            border: 1px solid gray;
+        }
+      
+        .input-field:focus {
+            border: 2px solid $theme-color;
+        }
+
+        .fa {
+            min-width: 20px;
+        }
+  }
+}
+
+.error-text {
+    color: red;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+}

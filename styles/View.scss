@@ -1,0 +1,16 @@
+@import './variables.scss';
+
+.note-display-title {
+    border-bottom: 1px solid $light-grey;
+    padding: 15px 0 5px 20px;
+}
+
+.notes-list-header {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.notes-list {
+    margin: 0;
+}
